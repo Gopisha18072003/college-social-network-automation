@@ -53,5 +53,4 @@ A total of **40 automated test cases** were created and executed to ensure the s
 
 ---
 
-## 📂 Project Structure
 
